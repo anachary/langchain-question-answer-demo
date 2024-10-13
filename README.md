@@ -13,7 +13,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/anachary/langchain-question-answer-demo.git
-    cd langchain-question-answer
+    cd langchain-question-answer-demo
     ```
 
 2. **Create a Conda Environment**:
